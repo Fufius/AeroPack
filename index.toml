@@ -121,11 +121,6 @@ hash = "be9b84747fbddabebaaa182dfc3a4bb3f0b9d8c5a5473b6fd8fe92776458832e"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
