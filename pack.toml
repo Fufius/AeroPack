@@ -1,0 +1,13 @@
+name = "Aero"
+author = "Fufius"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "994ea128fadcf79174df1013039b08a20240f95f95d636ad829f3727449efcfd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
