@@ -81,6 +81,11 @@ hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
 
 [[files]]
+file = "mods/big-contraptions.pw.toml"
+hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
@@ -146,8 +151,18 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "d11bb3a4c43cdbe205c949bbb50977d12f3b22d129f738de7996b5722df3ac60"
 metafile = true
 
 [[files]]
@@ -191,6 +206,11 @@ hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
@@ -198,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-(unofficial-port).pw.toml"
+hash = "ff988ae39f5223a6e0dd55d3c3255d2ef39b6756b106fa22063f5c3fccd2225c"
 metafile = true
 
 [[files]]
@@ -213,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/createlazytick.pw.toml"
 hash = "788d9d227f95e98dfc68c0fd14324bf05a14bf067b4388d5f055c2c2321a36bb"
+metafile = true
+
+[[files]]
+file = "mods/createoplenty.pw.toml"
+hash = "f4b24e22e6168f8df906d222d8de0a31bec0263a3f5425344ee0736681655842"
 metafile = true
 
 [[files]]
