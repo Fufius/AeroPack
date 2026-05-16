@@ -241,11 +241,6 @@ hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
-file = "mods/create-the-air-war.pw.toml"
-hash = "323ec94bba4bbc9f655ed80fd8ccae5dda4f2bb7c2cea258e713afa9082e733e"
-metafile = true
-
-[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
 metafile = true
