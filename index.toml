@@ -141,11 +141,6 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
-file = "mods/big-contraptions.pw.toml"
-hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
-metafile = true
-
-[[files]]
 file = "mods/biolith.pw.toml"
 hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
 metafile = true
@@ -378,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
-metafile = true
-
-[[files]]
-file = "mods/create-sable-dynamic-lights.pw.toml"
-hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
 metafile = true
 
 [[files]]
@@ -733,11 +723,6 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "ee3b820bf7350e4a48726ac7931e8e0e3fcd76688c7db0741a8d1d8d26adf69e"
-metafile = true
-
-[[files]]
-file = "mods/neruina.pw.toml"
-hash = "c8416fe79c21e4d747cb9a4a955e185981a298653fd89c2ff73410b3280af35e"
 metafile = true
 
 [[files]]
