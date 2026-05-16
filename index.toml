@@ -126,11 +126,6 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
-file = "mods/better-than-mending.pw.toml"
-hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
-metafile = true
-
-[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
@@ -223,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
-metafile = true
-
-[[files]]
-file = "mods/copycats.pw.toml"
-hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
@@ -506,11 +496,6 @@ hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true
 
 [[files]]
-file = "mods/extreme_sound_muffler.pw.toml"
-hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
-metafile = true
-
-[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -591,11 +576,6 @@ hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
-metafile = true
-
-[[files]]
 file = "mods/inventoryhudplus.pw.toml"
 hash = "19997fc3233640cda64d2fbe3eb0c01c51910101cc67ad078fa1c9d9c7374703"
 metafile = true
@@ -653,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
-metafile = true
-
-[[files]]
-file = "mods/kubejsable.pw.toml"
-hash = "373056af412ff3db99051f70f9ffc723f9c97857da4c4494d8fa96fe8f681b32"
 metafile = true
 
 [[files]]
@@ -788,11 +763,6 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
-metafile = true
-
-[[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
 
 [[files]]
